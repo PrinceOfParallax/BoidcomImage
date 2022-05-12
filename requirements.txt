@@ -1,0 +1,5 @@
+numpy
+absl-py
+tensorflow-gpu==2.5.3
+tfds-nightly
+tqdm
